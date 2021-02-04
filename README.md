@@ -6,7 +6,9 @@
 A <b>VERY</b> personal project.           
                  
 Vitugoshi is a <b><i>Tamagotchi</i> like mobile game</b> where you have to take care of the main character like a <b>virtual pet.</b>
+
 You have to take care of the character's <b>health, happiness, and energy.</b>
+
 You have the options to <b>change his clothes and the background</b>, you can give the character <b>food, affection and put him to sleep.</b> You can also <b>cycle through the character lines.</b>
 
 |<img src="https://i.imgur.com/UTu6sBH.gif" alt="Game example gif 1"> |   <img src="https://i.imgur.com/ls697Bw.gif" alt="Game example gif 2">|
