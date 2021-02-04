@@ -1,27 +1,51 @@
 fileFormatVersion: 2
 guid: b8daf811acd2dcf449a98e9d9c593bdb
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: "Bal\xE3o_Pensamento"
-    21300002: "Bal\xE3o_Fala_1"
-    21300004: "Bal\xE3o_Fala_2"
-    21300006: "Bal\xE3o_Fala_3"
-    21300008: "Bal\xE3o_Fala_4"
-    21300010: "Bal\xE3o_Fala_5"
-    21300012: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "Bal\xE3o_Pensamento"
+  - first:
+      213: 21300002
+    second: "Bal\xE3o_Fala_1"
+  - first:
+      213: 21300004
+    second: "Bal\xE3o_Fala_2"
+  - first:
+      213: 21300006
+    second: "Bal\xE3o_Fala_3"
+  - first:
+      213: 21300008
+    second: "Bal\xE3o_Fala_4"
+  - first:
+      213: 21300010
+    second: "Bal\xE3o_Fala_5"
+  - first:
+      213: 21300012
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_9
-    21300014: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  - first:
+      213: 21300014
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_10
-    21300016: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  - first:
+      213: 21300016
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_11
-    21300018: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  - first:
+      213: 21300018
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_12
-    21300020: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  - first:
+      213: 21300020
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_13
-    21300022: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+  - first:
+      213: 21300022
+    second: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
       1_14
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -75,8 +99,9 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  applyGammaDecoding: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -87,7 +112,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -98,7 +124,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -109,7 +136,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 4096
     resizeAlgorithm: 0
@@ -120,6 +148,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -139,6 +168,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 69721a2b07c67b64d920a29cc4b840e5
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -159,6 +189,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 95bc8606d11396d4da7642dcd81aebdf
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -179,6 +210,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 77c4aeafcb0cf6e47ae240bdcf1d1b80
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -199,6 +231,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d59b673f4a83ea148bd9cb48c7dba6fc
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -219,6 +252,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 01dcdd64fb265674ea3794dc45a71eca
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -239,12 +273,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2d99b74281288fa42965b0488d9dda94
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_9
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_9
       rect:
         serializedVersion: 2
         x: 453
@@ -259,12 +295,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 382af7b86fb8e1440ae380374d4c8b16
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_10
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_10
       rect:
         serializedVersion: 2
         x: 475
@@ -279,12 +317,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 574ee817d0d01e34980a36a56b782ed7
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_11
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_11
       rect:
         serializedVersion: 2
         x: 237
@@ -299,12 +339,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d308b3738b9b84f42bd4c5e7fd3ac924
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_12
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_12
       rect:
         serializedVersion: 2
         x: 291
@@ -319,12 +361,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9166c527e54f4cb469b15d97b22db05f
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_13
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_13
       rect:
         serializedVersion: 2
         x: 306
@@ -339,12 +383,14 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1003fde85a56e6443bba1c17eed26334
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529 1_14
+      name: branca-do-discurso-bolhas-ajustado-no-estilo-pixel-art_23-2147572529
+        1_14
       rect:
         serializedVersion: 2
         x: 322
@@ -359,6 +405,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: f33ae3c5cef0b7542806521f02b6b3c1
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -367,10 +414,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: fac728d369a26664a9180aff4f08c29b
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
