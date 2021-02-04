@@ -18,6 +18,12 @@ You have the options to <b>change his clothes and the background</b>, you can gi
 I made this game as a gift to my girlfriend on our <b>5 years together birthday.</b> She likes this kind of game and I wanted to give her a meaningful gift.
 The game uses a lot of lists to store its data like clothes, background, and lines in a way that it can be more <b>easily changed in the Unity inspector</b> without messing with the code. 
 
+<img src="https://i.imgur.com/LySfpkG.png" alt="Game Manager">
+<i><b>How the Game Manager looks</b></i>                                           
+
+<br>
+<p>
+  
 The game uses the <b>Unity built-in mobile notifications</b> to send some alerts to the player (not anything related to the game, just some messages that I wanted my girlfriend to be reminded of).
 
 Most of the art I got from the internet and did some edits. However, there's <b>some original art</b> that I made when I saw fit like the pet cockatiel that hangs with the character (Her name is Carol, Carol a calopsita).
